@@ -1,0 +1,2 @@
+begginer:roslab1/autoturtle:roslab1/beginner_tutorials:roslab1/lidarlab:roslab1/race:tutorial
+-DCATKIN_DEVEL_PREFIX=/home/swetang/catkin_ws_swetang/devel -DCMAKE_INSTALL_PREFIX=/home/swetang/catkin_ws_swetang/install -G Unix Makefiles

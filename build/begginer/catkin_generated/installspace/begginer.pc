@@ -1,0 +1,8 @@
+prefix=/home/swetang/catkin_ws_swetang/install
+
+Name: begginer
+Description: Description of begginer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
